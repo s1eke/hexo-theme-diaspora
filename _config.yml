@@ -43,7 +43,6 @@ hitokoto: true
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
     github: https://github.com/s1eke
-    twitter: https://twitter.com
     email: mailto:silence.boy@live.cn
 
 # 备案
